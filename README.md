@@ -8,12 +8,17 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 
 ## Contents
 
+### Enough to be dangerous
+
+* [What is Extreme Programming?](https://ronjeffries.com/xprog/book/whatisxp/)
+
+### To master, continue with
+
 * ["Extreme Programming Explained: Embrace Change" book](https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained)
 * ["Extreme Programming Pocket Guide: Team-Based Software Development" book](https://www.goodreads.com/book/show/19197484-extreme-programming-pocket-guide?ac=1&from_search=true&qid=DcBFkeBcZ3&rank=1)
 * [Extreme Programming 20 years later](https://www.youtube.com/watch?v=cGuTmOUdFbo)
 * [XP in the 21st Century](https://www.youtube.com/watch?v=IDKJJDiK3Gw)
 * [Extreme Programming: A gentle introduction](http://www.extremeprogramming.org/)
-* [What is Extreme Programming?](https://ronjeffries.com/xprog/book/whatisxp/)
 * [Extreme Programming](https://www.agilealliance.org/glossary/xp/#q=~(infinite~false~filters~(postType~(~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'xp))~searchTerm~'~sort~false~sortDirection~'asc~page~1))
 * [Exploring Extreme Programming](https://xp123.com/articles/)
 
